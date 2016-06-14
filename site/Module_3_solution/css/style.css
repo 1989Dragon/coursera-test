@@ -1,1 +1,13 @@
 
+ul{
+	border: 1px solid blue;
+	font-size: 20px;
+}
+ul li:nth-child(1){
+	border-bottom:  1px solid blue;
+
+}
+ul li:nth-child(2){
+	border-bottom:  1px solid blue;
+
+}
